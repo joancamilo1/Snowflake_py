@@ -16,4 +16,4 @@
 
 - Takes the first 100 rows of the DataFrame for a sample.
 
-# Essentially, this code connects Python to a Snowflake database, extracts data from a specific table, and loads it into a Pandas DataFrame for further processing or analysis.
+## Essentially, this code connects Python to a Snowflake database, extracts data from a specific table, and loads it into a Pandas DataFrame for further processing or analysis.
